@@ -2,7 +2,7 @@
 ### Hi there, I'm iDarkQ (Łukasz)
 
 🧒🏼 **About me:**<br/>
-15 years old programmer from Poland, currently living in Portugal. Future android app, and server software developer. Mostly I am writing in PHP and Java. I am also an amateur in Kotlin and C#.
+15 years old programmer from Poland, currently living in Portugal. Future android app, and server software developer. Mostly I am trying to write in Kotlin and Java.
 
 📈 **GitHub Stats:**
 
