@@ -8,6 +8,7 @@
 - Instagram chat clone app - (Kotlin)
 - Simple password generator app - (Kotlin)
 - Youtube video converter - (C#)
+- ChromaSave - (JavaScript)
 
 📈 **GitHub Stats:**
 
