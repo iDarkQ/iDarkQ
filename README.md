@@ -17,4 +17,4 @@
   <img height="160em" src="https://github-readme-stats-lilac-beta-32.vercel.app/api/top-langs/?username=iDarkQ&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
-📱Dicord contact: iDarkQ#5870
+📱Discord contact: iDarkQ#5870
