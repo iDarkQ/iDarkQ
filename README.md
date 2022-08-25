@@ -2,7 +2,7 @@
 ## Hi there, I'm iDarkQ (Łukasz) 👋
 
 ### 🧒🏼 **About me:**
-16 years old programmer from Poland, currently living in Portugal. Future android app, and server software developer. Mostly I am trying to write in Kotlin and Java.
+16 years old programmer from Poland, currently living in Portugal. Future mobile apps developer, and server software developer. Mostly I am trying to write in Kotlin and Java.
 
 ### Projects I have done (all of them are private repos 🙃):
 - Instagram chat clone app - (Kotlin)
