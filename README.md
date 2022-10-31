@@ -6,7 +6,7 @@
 
 ### Projects I have done (all of them are private repos 🙃):
 - Instagram chat clone app - (Kotlin)
-- Simple password generator app - (Kotlin)
+
 - Youtube video converter - (C#)
 - ChromaSave - (JavaScript)
 
