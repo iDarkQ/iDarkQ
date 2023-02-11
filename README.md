@@ -8,6 +8,7 @@
 - Instagram chat clone app - Kotlin
 - CSJ Attendence Control - Flutter
 - BrainStorm (note app) - Flutter
+- Scribium (gradebook) - Flutter
 
 📈 **GitHub Stats:**
 
