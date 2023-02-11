@@ -5,10 +5,9 @@
 16 years old programmer from Poland, currently living in Portugal. Future mobile apps developer, and server software developer. Mostly I am trying to write in Kotlin and Java.
 
 ### Projects I have done (all of them are private repos 🙃):
-- Instagram chat clone app - (Kotlin)
-
-- Youtube video converter - (C#)
-- ChromaSave - (JavaScript)
+- Instagram chat clone app - Kotlin
+- CSJ Attendence Control - Flutter
+- BrainStorm (note app) - Flutter
 
 📈 **GitHub Stats:**
 
