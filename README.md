@@ -5,7 +5,7 @@
 16 years old programmer from Poland, currently living in Portugal. Future mobile apps developer, and server software developer. Mostly I am trying to write in Kotlin and Java.
 
 ### Projects I have done (all of them are private repos 🙃):
-- Better Bedrock Client App - Flutter
+- Better Bedrock App - Flutter
 - CSJ Attendence Control - Flutter
 - BrainStorm (note app) - Flutter
 - Scribium (gradebook) - Flutter
