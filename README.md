@@ -13,8 +13,8 @@ Hi! I am a 17 year old programmer from Poland, currently living in Portugal. I a
 📈 **GitHub Stats:**
 
 <p>
-  <img height="260em" src="https://github-readme-stats-lilac-beta-32.vercel.app/api?username=iDarkQ&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="260em" src="https://github-readme-stats-lilac-beta-32.vercel.app/api/top-langs/?username=iDarkQ&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=donut-vertical&langs_count=8&hide=PHP"/>
+  <img height="160em" src="https://github-readme-stats-lilac-beta-32.vercel.app/api?username=iDarkQ&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=transparent" />
+  <img height="160em" src="https://github-readme-stats-lilac-beta-32.vercel.app/api/top-langs/?username=iDarkQ&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=donut&langs_count=5&hide=PHP&theme=transparent"/>
 </p>
 
 📱Discord contact: iDarkQ#5870
