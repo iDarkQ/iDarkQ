@@ -12,11 +12,4 @@ I am a fast learner always wanting to develop and to expand horizons. Currently 
 - BrainStorm (note app) - Flutter
 - Scribium (gradebook) - Flutter
 
-📈 **GitHub Stats:**
-
-<p>
-  <img height="160em" src="https://github-readme-stats-lilac-beta-32.vercel.app/api?username=iDarkQ&show_icons=true&hide_border=true&&count_private=true&theme=transparent" />
-  <img height="160em" src="https://github-readme-stats-lilac-beta-32.vercel.app/api/top-langs/?username=iDarkQ&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=donut&langs_count=5&hide=PHP&theme=transparent"/>
-</p>
-
-📱Discord contact: iDarkQ#5870
+📱Discord contact: iDarkQ#5870 (idarkq)
