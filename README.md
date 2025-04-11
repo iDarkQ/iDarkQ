@@ -1,14 +1,13 @@
-
 ## Hi there, I'm iDarkQ (Łukasz) 👋
 
-Hi! I am a 18 year old programmer from Poland, currently living in Portugal. I am a mobile apps, and server software developer. My most used languages include Dart and Kotlin. However, in total I have over 4 years of programming experience in over 8 languages including C# and GoLang. Currently I am the coowner of Better Bedrock Client endevouring to expand our community, by simplifying accessability of favourite and most used functions and improving users gaming experience. 
+👨‍💻 Hi! I am an 18-year-old programmer from 🇵🇱 Poland, currently living in 🇵🇹 Portugal. The technologies I currently focus on include ⚡ Fastify and ⚛️ React. In total, I have over 5 years of programming experience in over 8 languages including 🟦 TypeScript, ☕ Java, 🐘 PHP, 🎯 Dart, 🧃 Kotlin, and 💠 C#.
 
-I am a fast learner always wanting to develop and to expand horizons. Currently I speak 3 languages Polish, English, and still learning Portuguese. If you would like to contribute with me and create some projects, you can contact me through discord.
+🚀 Currently, I am the co-owner of **Better Bedrock Client**, endeavoring to expand our community by simplifying accessibility to favorite and most-used functions and improving users' gaming experience 🎮.
 
-### Completed Projects (all of them are private repos 🙃):
-- Better Bedrock App - Flutter
-- CSJ Attendence Control (application for school to monitor attendence) - Flutter
-- BrainStorm (note app) - Flutter
-- Scribium (gradebook) - Flutter
+🧠 I also created **Daylytic**, a platform helping people reach their potential 🌟.
 
-📱Discord contact: iDarkQ#5870 (idarkq)
+📚 I am a fast learner, always eager to grow and expand my horizons. I speak 3 languages: 🇵🇱 Polish, 🇬🇧 English, and I'm still learning 🇵🇹 Portuguese. 
+
+If you'd like to collaborate and build something awesome together, feel free to reach out!
+
+📱 **Discord contact**: iDarkQ#5870 (idarkq)
