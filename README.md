@@ -4,7 +4,7 @@ Hi! I am an 18-year-old programmer from 🇵🇱 Poland, currently living in �
 
 🚀 Currently, I am the co-owner of **[Better Bedrock](https://betterbedrock.com)**, endeavoring to expand our community by simplifying accessibility to favorite and most-used functions and improving users' gaming experience 🎮.
 
-I also created **[Daylytic](https://daylytic.com)** 🧠, a platform helping people reach their potential 🌟.
+I also created **[Daylytic.com](https://daylytic.com)** 🧠, a platform helping people reach their potential 🌟.
 
 I am a fast learner, always eager to grow and expand my horizons. I speak 3 languages: 🇵🇱 Polish, 🇬🇧 English, and I'm still learning 🇵🇹 Portuguese. 
 
