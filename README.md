@@ -1,6 +1,6 @@
 ## Hi there, I'm Łukasz 👋
 
-Hi! I am a programmer from 🇵🇱 Poland, currently living in 🇵🇹 Portugal. At the moment my focus on include ⚡ Node.js and ⚛️ React. In total, I have over 6 years of programming experience in over 8 languages including 🟦 TypeScript, ☕ Java, 🐘 PHP, 🎯 Dart, 🧃 Kotlin, and 💠 C#.
+Hi! I am a programmer from 🇵🇱 Poland, currently living in 🇵🇹 Portugal. At the moment my focus includes ⚡ Node.js and ⚛️ React. In total, I have over 6 years of programming experience in over 8 languages including 🟦 TypeScript, ☕ Java, 🐘 PHP, 🎯 Dart, 🧃 Kotlin, and 💠 C#.
 
 🚀 I am the co-owner of **[Better Bedrock](https://betterbedrock.com)**, endeavoring to expand our community by simplifying accessibility to favorite and most-used functions and improving users' gaming experience 🎮.
 
